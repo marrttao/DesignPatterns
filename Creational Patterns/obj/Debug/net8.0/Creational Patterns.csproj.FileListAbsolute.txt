@@ -1,0 +1,14 @@
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.AssemblyInfoInputs.cache
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.AssemblyInfo.cs
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.csproj.CoreCompileInputs.cache
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\bin\Debug\net8.0\Creational Patterns.exe
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\bin\Debug\net8.0\Creational Patterns.deps.json
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\bin\Debug\net8.0\Creational Patterns.runtimeconfig.json
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\bin\Debug\net8.0\Creational Patterns.dll
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\bin\Debug\net8.0\Creational Patterns.pdb
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.dll
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\refint\Creational Patterns.dll
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.pdb
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.genruntimeconfig.cache
+C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\ref\Creational Patterns.dll
