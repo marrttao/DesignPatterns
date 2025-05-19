@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marrt\\RiderProjects\\DesignPatterns\\Creational Patterns\\Creational Patterns.csproj": {}
+    "D:\\Programs\\Rider\\RiderProjects\\Design Patterns\\Creational Patterns\\Creational Patterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marrt\\RiderProjects\\DesignPatterns\\Creational Patterns\\Creational Patterns.csproj": {
+    "D:\\Programs\\Rider\\RiderProjects\\Design Patterns\\Creational Patterns\\Creational Patterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marrt\\RiderProjects\\DesignPatterns\\Creational Patterns\\Creational Patterns.csproj",
+        "projectUniqueName": "D:\\Programs\\Rider\\RiderProjects\\Design Patterns\\Creational Patterns\\Creational Patterns.csproj",
         "projectName": "Creational Patterns",
-        "projectPath": "C:\\Users\\marrt\\RiderProjects\\DesignPatterns\\Creational Patterns\\Creational Patterns.csproj",
-        "packagesPath": "C:\\Users\\marrt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marrt\\RiderProjects\\DesignPatterns\\Creational Patterns\\obj\\",
+        "projectPath": "D:\\Programs\\Rider\\RiderProjects\\Design Patterns\\Creational Patterns\\Creational Patterns.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Programs\\Rider\\RiderProjects\\Design Patterns\\Creational Patterns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marrt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Users\\marrt\\.dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\marrt\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\User\\.dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

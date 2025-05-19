@@ -12,3 +12,18 @@ C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0
 C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.pdb
 C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.genruntimeconfig.cache
 C:\Users\marrt\RiderProjects\DesignPatterns\Creational Patterns\obj\Debug\net8.0\ref\Creational Patterns.dll
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\bin\Debug\net8.0\Creational Patterns.exe
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\bin\Debug\net8.0\Creational Patterns.deps.json
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\bin\Debug\net8.0\Creational Patterns.runtimeconfig.json
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\bin\Debug\net8.0\Creational Patterns.dll
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\bin\Debug\net8.0\Creational Patterns.pdb
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.AssemblyInfoInputs.cache
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.AssemblyInfo.cs
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.csproj.CoreCompileInputs.cache
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.sourcelink.json
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.dll
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\obj\Debug\net8.0\refint\Creational Patterns.dll
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.pdb
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\obj\Debug\net8.0\Creational Patterns.genruntimeconfig.cache
+D:\Programs\Rider\RiderProjects\Design Patterns\Creational Patterns\obj\Debug\net8.0\ref\Creational Patterns.dll
